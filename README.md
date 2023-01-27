@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Seja Bem Vindo(a)!</h1>
 <h3 align="center">Me chamo João Victor, tenho 24 anos sou de Anápolis - GO, e estou em buscando uma recolocação no mercado na área de Desenvolvedor de Software. Passei 6 anos servindo a Força Aérea, e durante esses anos consegui me desenvolver tanto mentalmente como profissionalmente. Sou formado em Análise e Desenvolvimento de Sistemas, e estou me especializando em FrontEnd.</h3>
 
-- 🔭 Atualmente estou trabalhando em **Aprimorar minhas HardSkill e SoftSkill**
+- 🔭 **Atualmente estou trabalhando em Aprimorar minhas HardSkill e SoftSkill.**
 
-- 🌱 No momento estou aprendendo **JavaScript e quero me especializar em React.**
+- 🌱 **No momento estou aprendendo JavaScript e quero me especializar em React.**
 
-- 👨‍💻 Meus projetos estão disponíveis em meu GitHub [https://github.com/JVI-JoaoVictor](https://github.com/JVI-JoaoVictor)
+- 👨‍💻 **Meus projetos estão disponíveis em meu GitHub: [https://github.com/JVI-JoaoVictor](https://github.com/JVI-JoaoVictor)**
 
-- 📫 Me encontre através do email **jvi_joao.victor@hotmail.com**
+- 📫 **Me encontre através do email: jvi_joao.victor@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
