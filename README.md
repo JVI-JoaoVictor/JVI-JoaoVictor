@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm JVI-JoaoVictor</h1>
-<h3 align="center">Me chamo João Victor, tenho 24 anos e estou em buscando uma recolocação no mercado. Passei 6 anos servindo a Força Aérea, sou formado em Análise e Desenvolvimento de Sistemas. Estou buscando uma oportunidade em Desenvolvimento FrontEnd.</h3>
+<h3 align="center">Me chamo João Victor, tenho 24 anos e estou em buscando uma recolocação no mercado na área de Desenvolvedor de Software. Passei 6 anos servindo a Força Aérea, e aprendi a ser quem eu sou hoje.S
+Sou formado em Análise e Desenvolvimento de Sistemas, e estou me especializando em FrontEnd.</h3>
 
 - 🔭 Atualmente estou trabalhando em **Aprimorar minhas HardSkill e SoftSkill**
 
