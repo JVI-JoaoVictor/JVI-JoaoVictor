@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Seja Bem Vindo!</h1>
-<h3 align="center">Me chamo João Victor, tenho 24 anos sou de Anápolis - GO, e estou em buscando uma recolocação no mercado na área de Desenvolvedor de Software. Passei 6 anos servindo a Força Aérea, consegui me desenvolver tanto mentalmente como profissionalmente. Sou formado em Análise e Desenvolvimento de Sistemas, e estou me especializando em FrontEnd.</h3>
+<h3 align="center">Me chamo João Victor, tenho 24 anos sou de Anápolis - GO, e estou em buscando uma recolocação no mercado na área de Desenvolvedor de Software. Passei 6 anos servindo a Força Aérea, e durante esses anos consegui me desenvolver tanto mentalmente como profissionalmente. Sou formado em Análise e Desenvolvimento de Sistemas, e estou me especializando em FrontEnd.</h3>
 
 - 🔭 Atualmente estou trabalhando em **Aprimorar minhas HardSkill e SoftSkill**
 
