@@ -12,8 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/joaovictor-jvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joaovictor-jvi/" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/joaovictor.c.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/joaovictor.c.73" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/joaovictoru.u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/joaovictoru.u/" height="30" width="40" /></a>
 <a href="https://discord.gg/JVI_João.Victor#0233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JVI_João.Victor#0233" height="30" width="40" /></a>
 </p>
 
